@@ -1,0 +1,7 @@
+interface:
+  display_name: "Equity Research Assistant"
+  short_description: "Draft equity research outlines and valuation plans."
+  default_prompt: "Use $equity-research-assistant to draft a sourced equity research outline and valuation plan."
+
+policy:
+  allow_implicit_invocation: true

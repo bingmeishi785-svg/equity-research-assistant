@@ -1,0 +1,31 @@
+{
+  "company": "Sample Dairy Co",
+  "ticker": "1234.HK",
+  "region": "Hong Kong",
+  "industry": "Consumer Staples",
+  "currency": "HKD",
+  "financials": [
+    {
+      "year": 2025,
+      "revenue": 1000,
+      "gross_profit": 350,
+      "operating_profit": 120,
+      "net_income": 80,
+      "free_cash_flow": 60
+    }
+  ],
+  "share_count": 500,
+  "sources": [
+    "Latest annual report",
+    "Company investor presentation"
+  ],
+  "peer_set": [
+    "Peer A",
+    "Peer B"
+  ],
+  "valuation_assumptions": {
+    "base_case_revenue_growth": "5%",
+    "terminal_growth": "2%",
+    "discount_rate": "9%"
+  }
+}
